@@ -1,3 +1,4 @@
+#edited
 import math
 number=int(input())
 tedad=0
